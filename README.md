@@ -14,7 +14,10 @@
                 <p> - CSS</p>
                 <br>
                 <h2> Aqui Temos o visual do site</h2>
-          <img src="https://github.com/Rafa-Neris/Projeto-Minha-Loja-RM-3D-Store/blob/main/Pint%20Loja%20Online.jpg?raw=true" alt="RM 3D Store">
+                <a href="https://rafa-neris.github.io/Projeto-Minha-Loja-RM-3D-Store/">Acesse Site RM 3D Store</a>
+                <br>
+                <br>
+                <img src="https://github.com/Rafa-Neris/Projeto-Minha-Loja-RM-3D-Store/blob/main/Pint%20Loja%20Online.jpg?raw=true" alt="RM 3D Store">
     
                 
   
