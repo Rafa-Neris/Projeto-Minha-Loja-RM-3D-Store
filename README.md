@@ -7,15 +7,15 @@
               <p> Aqui montei um site para uma loja online para venda de impressão 3D</p>
               <p>Onde o cliente tem a possibilidade de escolher por categoria ou solicitar</p>
               <p> um projeto personalizado e exclusivo para seu negocio ou pessoal fazemos</p>
-              <p> a criação de qqulquer peça personalizada e com diversos tamanhos</p>
+              <p> a criação de qualquer peça personalizada e com diversos tamanhos</p>
               <br>
               <p> Nesse projeto trabalhei com as seguintes ferramentas</p>
               <p> - HTML</p>
                 <p> - CSS</p>
                 <br>
-                <div class="logo">
-          <img src="/Logo RM 3D Store .jpeg" alt="RM 3D Store">
-      </div>
+                <h2> Aqui Temos o visual do site</h2>
+          <img src="https://github.com/Rafa-Neris/Projeto-Minha-Loja-RM-3D-Store/blob/main/Pint%20Loja%20Online.jpg?raw=true" alt="RM 3D Store">
+    
                 
   
               
